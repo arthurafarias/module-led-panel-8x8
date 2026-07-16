@@ -1,0 +1,11 @@
+{
+    "name": "LED Panel 8x8",
+    "tags": ["LED matrix", "stackable module", "8x8 display", "KiCad"],
+    "description": "A stackable 8×8 LED matrix module for building larger tiled displays. The design includes 64 SMD LED positions and castellated side pads so adjacent panels can be soldered together without a separate connector.",
+    "buy-link": "https://arthurafarias.github.io/module-led-panel-8x8/",
+    "pictures": [
+        "module-led-panel-8x8-perspective.png",
+        "module-led-panel-8x8-front.png",
+        "module-led-panel-8x8-back.png"
+    ]
+}
