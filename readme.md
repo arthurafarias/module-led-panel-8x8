@@ -33,4 +33,4 @@ Key characteristics of this project:
 
 ## Notes
 
-This repository is focused on the LED matrix module itself. The board layout and connector placement are designed to support display tiling and easy integration into larger LED panel assemblies.
+This repository is focused on the LED matrix module itself. The board uses castellated side pads so panels can be soldered together for tiling, instead of relying on a separate connector interface.
